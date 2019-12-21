@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Shared Preferences</string>
+    <string name="txt_name">Qual seu nome</string>
 </resources>
