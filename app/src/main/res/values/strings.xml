@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Shared Preferences</string>
     <string name="txt_name">Qual seu nome</string>
+    <string name="usuario_sem_registro">Olá, usuário não registrado</string>
 </resources>

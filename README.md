@@ -5,7 +5,6 @@ Esse aplicativo tem como objetivo salvar dados do usuário para uso posterior
 ## Conhecimento aplicado
 * Butter Knife
 * Shared Preferences
-* xxxx
 
 ## Screeshots
 
